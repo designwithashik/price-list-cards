@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Standard",
+      "features": ["10GB storage", "100GB bandwidth", "24/7 support"],
+      "price": 9.99
+    },
+    {
+      "id": 2,
+      "name": "Premium",
+      "features": ["50GB storage", "500GB bandwidth", "24/7 support", "Priority support"],
+      "price": 19.99
+    },
+    {
+      "id": 3,
+      "name": "Ultimate",
+      "features": ["100GB storage", "Unlimited bandwidth", "24/7 support", "Priority support", "Custom domain"],
+      "price": 29.99
+    }
+  ]
+  
